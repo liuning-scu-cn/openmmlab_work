@@ -1,0 +1,8 @@
+目标检测最好结果：
+    coco/bbox_mAP  coco/bbox_mAP_50  coco/bbox_mAP_75  coco/bbox_mAP_l  coco/bbox_mAP_m  coco/bbox_mAP_s  data_time   step      time
+43          0.794             0.962             0.962            0.794             -1.0             -1.0   0.330067  187.0  0.372845
+
+
+关键点检测最好结果：
+         AUC       NME       PCK   coco/AP  coco/AP (L)  coco/AP (M)  ...  coco/AR (M)  coco/AR .5  coco/AR .75  data_time   step      time
+29  0.133844  0.040663  0.973923  0.739201     0.739201         -1.0  ...         -1.0    1.000000     0.952381   0.999431  300.0  1.019936
