@@ -1,0 +1,6 @@
+06/10 03:59:23 - mmengine - INFO - Epoch(train) [102][100/265]  lr: 1.0000e-05  eta: 0:14:23  time: 0.1756  data_time: 0.0004  memory: 1613  loss: 0.0979
+06/10 03:59:41 - mmengine - INFO - Epoch(train) [102][200/265]  lr: 1.0000e-05  eta: 0:14:05  time: 0.1752  data_time: 0.0004  memory: 1613  loss: 0.1375
+06/10 03:59:47 - mmengine - INFO - Exp name: resnet50_20230610_023755
+06/10 03:59:52 - mmengine - INFO - Exp name: resnet50_20230610_023755
+06/10 03:59:52 - mmengine - INFO - Saving checkpoint at 102 epochs
+06/10 03:59:53 - mmengine - INFO - Epoch(val) [102][10/10]    accuracy/top1: 92.0000  accuracy/top5: 98.6667  data_time: 0.0045  time: 0.0486
