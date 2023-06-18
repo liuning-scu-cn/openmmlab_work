@@ -1,0 +1,15 @@
+06/18 02:47:45 - mmengine - INFO - Iter(train) [10000/10000]  lr: 7.7419e-03  eta: 0:00:00  time: 0.4405  data_time: 0.0033  memory: 2874  loss: 0.0439  decode.loss_ce: 0.0316  decode.acc_seg: 80.0985  aux.loss_ce: 0.0123  aux.acc_seg: 82.4707
+06/18 02:47:45 - mmengine - INFO - Saving checkpoint at 10000 iterations
+06/18 02:47:51 - mmengine - INFO - per class results:
+06/18 02:47:51 - mmengine - INFO - 
++------------+-------+-------+
+|   Class    |  IoU  |  Acc  |
++------------+-------+-------+
+|    red     | 88.85 | 97.61 |
+|   green    | 90.52 | 95.36 |
+|   white    |  28.0 | 28.12 |
+| seed-black | 79.11 | 88.24 |
+| seed-white | 65.75 | 83.45 |
+| Unlabeled  |  28.9 | 75.49 |
++------------+-------+-------+
+06/18 02:47:51 - mmengine - INFO - Iter(val) [11/11]    aAcc: 91.4900  mIoU: 63.5200  mAcc: 78.0400  data_time: 0.0041  time: 0.4106
